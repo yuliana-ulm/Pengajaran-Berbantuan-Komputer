@@ -1,4 +1,4 @@
-# Tugas 1 Pembelajaran Berbantuan Komputer
+# Tugas 1 Pengajaran Berbantuan Komputer
 Oleh : Yuliana (2110131220001)
 
 [Klik untuk mengakses Media Pembelajaran](https://fungsi-agregasi-basis-data.netlify.app/)

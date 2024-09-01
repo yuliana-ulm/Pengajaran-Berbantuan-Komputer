@@ -1,4 +1,4 @@
-# Tugas 1 Pembelajaran Berbantuan Komputer
+# Tugas 1 Pengajaran Berbantuan Komputer
 Oleh : Yuliana (2110131220001)
 
 [Klik untuk mengunduh Web School Offline](https://play.google.com/store/apps/details?id=com.boltuix.webschool&pcampaignid=web_share)
