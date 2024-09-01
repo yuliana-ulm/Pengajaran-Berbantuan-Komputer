@@ -33,5 +33,5 @@ Hasil review saya pribadi mengatakan bahwa aplikasi Web School Offline bisa dika
 <img src="Gambar/apk-wso.png">
 <img src="Gambar/info-wso.png">
 
-Banjarmasin |
-Minggu, 01 September 2024
+[Total 328 Kata] Banjarmasin |
+Minggu, 01 September 2024 
