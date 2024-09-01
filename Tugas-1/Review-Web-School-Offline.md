@@ -6,7 +6,7 @@ Oleh : Yuliana (2110131220001)
 # Review Aplikasi Web School Offline
 <img src="Gambar/logo-wso.png">
 
-Web School Offline adalah aplikasi mobile untuk belajar bahasa pemrograman seperti HTML, PYTHON, CSS, SQL, Javascript dan lain sebagainya. Aplikasi ini dibuat oleh BOLT UIX yang merupakan spesialis mobile app developer. Mendapatkan rating 4,3 di Google Playstore, bisa dikatakan bahwa aplikasi ini merupakan versi mobile dari situs _"www.3school.com"_ yang bisa diakses secara offline melalui smartphone.
+Web School Offline adalah aplikasi mobile untuk belajar bahasa pemrograman seperti HTML, PYTHON, CSS, SQL, Javascript dan lain sebagainya. Aplikasi ini dibuat oleh BOLT UIX yang merupakan spesialis mobile app developer. Mendapatkan rating 4,3 di Google Playstore, bisa dikatakan bahwa aplikasi ini merupakan versi mobile dari situs _"w3school.com"_ yang bisa diakses secara offline melalui smartphone.
 
 ## - As Tutor
 
