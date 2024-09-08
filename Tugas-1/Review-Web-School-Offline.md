@@ -10,6 +10,17 @@ Web School Offline adalah aplikasi mobile untuk belajar bahasa pemrograman seper
 
 > ## Tabel Analisis
 
+### - Analisis Fitur
+Fitur | Deskripsi
+--------|--------
+Belajar | Berisikan materi
+Praktek | Berisikan materi
+Belajar | Berisikan materi
+
+### - Analisis Kekurangan dan Kelebihan
+Kelebihan | Kekurangan
+--------|--------
+Bisa praktek offline | Harus diinstall
 
 > ## Pemanfaatan Aplikasi Web School Offline sebagai Tutor
 
