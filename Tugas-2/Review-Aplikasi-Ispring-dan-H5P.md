@@ -6,6 +6,7 @@ iSpring Suite dikenal sebagai alat pembuat konten e-learning yang canggih dengan
 ---
 
 ### **1. H5P**  
+[/Gambar/H5P.png]
 **Deskripsi**  
 H5P (HTML5 Package) adalah platform berbasis web yang memungkinkan pengguna membuat dan berbagi konten interaktif. Ini terintegrasi dengan berbagai Learning Management System (LMS) seperti Moodle, WordPress, dan Drupal.  
 
